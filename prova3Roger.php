@@ -1,7 +1,7 @@
 <?php
 
 function saludar() {
-    echo "HELLO WORLD";
+    exho "HELLO WORLD";
 }
 
 saludar();
